@@ -1,0 +1,4 @@
+cd desktop/tools
+sudo cp iasl /usr/bin
+sudo cp patchmatic /usr/bin
+sudo cp hda-verb /usr/bin
